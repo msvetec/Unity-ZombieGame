@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnemyAIGame.Plugins", "EnemyAIGame.Plugins.csproj", "{75356D33-9EB5-DB15-DE5B-2C008668A0BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnemyAIGame", "EnemyAIGame.csproj", "{4485BF37-B10F-BBC0-27D1-B711B6719B06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnemyAIGame.Editor.Plugins", "EnemyAIGame.Editor.Plugins.csproj", "{7AC8DAF6-B94C-D740-6241-1ED4247BAD59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75356D33-9EB5-DB15-DE5B-2C008668A0BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75356D33-9EB5-DB15-DE5B-2C008668A0BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75356D33-9EB5-DB15-DE5B-2C008668A0BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75356D33-9EB5-DB15-DE5B-2C008668A0BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4485BF37-B10F-BBC0-27D1-B711B6719B06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4485BF37-B10F-BBC0-27D1-B711B6719B06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4485BF37-B10F-BBC0-27D1-B711B6719B06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4485BF37-B10F-BBC0-27D1-B711B6719B06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AC8DAF6-B94C-D740-6241-1ED4247BAD59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AC8DAF6-B94C-D740-6241-1ED4247BAD59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AC8DAF6-B94C-D740-6241-1ED4247BAD59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AC8DAF6-B94C-D740-6241-1ED4247BAD59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
